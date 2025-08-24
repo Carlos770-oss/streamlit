@@ -1,0 +1,95 @@
+﻿Sistema de Información Energética,,,,,,,,,,,,
+Secretaría de Energía,,,,,,,,,,,,
+Dirección General de Planeación e Información Energéticas,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Balance Nacional de Energía: Energía secundaria,,,,,,,,,,,,
+,,,,,,,,,,,,
+(petajoules),,,,,,,,,,,,
+,,,,,,,,,,,,
+,Coque de carbón,Coque de petróleo,Gas LP,Gasolinas  y naftas,Querosenos,Diesel,Combustóleo,Productos no energéticos,Gas seco,Otros autogen,Energía Eléctrica,Total de energía secundaria
+2024,,,,,,,,,,,,
+,,,,,,,,,,,,
+Producción,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+De otras fuentes,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0.000
+Importación,,,,,,,,,,0,,0.000
+Variación de inventarios,,,,,,,,,,0,0,
+Oferta total,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,,0.000
+Exportación,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0.000
+No aprovechada,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+Maquila-intercambio neto,0,0,,,,,,,0,0,0,0.000
+Oferta interna bruta,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0.000
+,,,,,,,,,,,,
+Total transformación,,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+Coquizadoras,,0,0,0,0,0,0,0,0,,0,0.000
+Refinerías y despuntadoras,0,,,,,,,,,,0,0.000
+Plantas de gas y fraccionadoras,0,0,,,,,,,,0,0,0.000
+Centrales eléctricas CFE,0,0,0,0,0,0.000,0.000,0.000,0.000,0.000,,0.000
+Centrales eléctricas PEMEX,0,0,0,0,0,0.000,0.000,0.000,0.000,0.000,,0.000
+Centrales eléctricas PIE,0,0,0,0,0,0.000,0.000,0,0.000,0,,0.000
+Centrales eléctricas Autoabasto,0,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0.000,,0.000
+Centrales eléctricas de PP,0,0,0.000,0.000,0.000,0.000,0.000,0,0.000,0.000,,
+Centrales eléctricas Cogeneración,0.000,0.000,0.000,0,0,0.000,0.000,0,0.000,0.000,,0.000
+Centrales eléctricas con modalidad de Generación,0.000,0.000,0,0,0,0.000,0.000,0,0.000,0,,0.000
+Centrales eléctricas UPC,0,0,0,0,0,0.000,0.000,0,0.000,0.000,,0.000
+Generación Distribuida,0,0,0,0,0,0.000,0.000,0,0.000,0.000,,
+,,,,,,,,,,,,
+Consumo propio del sector,0.000,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+Transferencias interproductos,0,0,0,0,0,0,0,0,,0,0,
+Recirculaciones,0,0,0,0,0,0,0,0,0.000,0,0,0.000
+Diferencia estadística,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,,0.000,,0.000
+"Pérdidas (transp.,dist. y almac)",0,0,0,0,0,0,0,0,0,0,0.000,0.000
+,,,,,,,,,,,,
+Consumo final total,,,,,,,,,,0.000,,0.000
+,,,,,,,,,,,,
+Consumo final no energético,0,,,,,0,,,,0,0,0.000
+Petroquímica de Pemex,0,0,,,,0,0,,,0,0,0.000
+Otras ramas económicas,0,,,,,0,,,0.000,0,0,0.000
+,,,,,,,,,,,,
+Consumo final energético,,,,,,,,0,,0,,0.000
+,,,,,,,,,,,,
+"Residencial, comercial y público",0,0,0.000,0,,,,0,0.000,0,0.000,0.000
+Residencial,0,0,,0,,,0,0,,0,,0.000
+Comercial,0,0,,0,0,0,,0,,0,,0.000
+Público,0,0,0,0,0,0,0,0,0,0,,
+,,,,,,,,,,,,
+Transporte,0,0,,,,,,0,,0,,0.000
+Aéreo,0,0,0,,,0,0,0,0,0,0,0.000
+Autotransporte,0,0,,,0,,0,0,,0,0,0.000
+Eléctrico,0,0,0,0,0,0,0,0,0,0,,
+Ferroviario,0,0,,,0,,0,0,0,0,,0.000
+Marítimo,0,0,0,0,0,,,0,0,0,0,0.000
+,,,,,,,,,,,,
+Agropecuario,0,0,,,,,,0,0,0,,0.000
+,,,,,,,,,,,,
+Industrial,,,,,,,,0,,0,,0.000
+Petroquímica de Pemex,0,0,0,,0,,,0,,0,,0.000
+Otras ramas industriales,0.000,0.000,0.000,,0.000,0.000,0.000,0,0.000,0,0.000,0.000
+"212.- Minería de minerales metálicos y no metálicos, excepto petróleo y gas",,,,0,0,,,0,,0,,0.000
+236.- Edificación,,,,0,0,,,0,0,0,,0.000
+311.- Industria alimentaria,0,0,,0,0,,,0,,0,,0.000
+312 Industria de las bebidas y del tabaco,0,0,,0,0,,,0,,0,,0.000
+313.-Fabricación de insumos textiles y acabado de textiles,0,0,,0,0,,,0,,0,,0.000
+322.-Industria del papel,0,0,,0,0,,,0,,0,,0.000
+325.- Industria química,,,,0,0,,,0,,0,,0.000
+326.- Industria del plástico y del hule,0,0,,0,0,,,0,,0,,0.000
+327.-Fabricación de productos a base de minerales no metálicos,0,0,,0,0,,,0,,0,,0.000
+331.- Industrias metálicas básicas,,,,0,,,,0,,0,,0.000
+"334.-Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónico",0,0,,0,0,,,0,,0,,0.000
+"335.-Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",0,0,,0,0,,,0,,0,,0.000
+336.-Fabricación de equipo de transporte,0,0,,0,0,,,0,,0,,0.000
+339.- Otras industrias manufactureras,0,0,,0,0,,,0,,0,,0.000
+Otras ramas,0,,,,,,,0,,0,,0.000
+Cerveza y malta,,,,,,,,,,,,
+Fertilizantes,,,,,,,,,,,,
+Cemento,,,,,,,,,,,,
+Aluminio,,,,,,,,,,,,
+Vidrio,,,,,,,,,,,,
+Aguas envasadas,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Nota:,,,,,,,,,,,,
+La suma de los parciales puede no coincidir con los totales debido al redondeo de las cifras.,,,,,,,,,,,,
+La información de 2023 es preliminar.,,,,,,,,,,,,
+,,,,,,,,,,,,
+"Fuente: Sistema de Información Energética, SENER.",,,,,,,,,,,,
